@@ -36,7 +36,7 @@ input[type="text"] {
 .add-btn {
     padding: 10px 20px;
     margin-left: 10px;
-    background-color: #63bfbe;
+    background-color: #ccc96a;
     color: #fff;
     border: none;
     cursor: pointer;
@@ -44,7 +44,7 @@ input[type="text"] {
 }
 
 .add-btn:hover {
-    background-color: #218838;
+    background-color: #dbd644;
 }
 
 ul {
