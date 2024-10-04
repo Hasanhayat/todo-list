@@ -6,6 +6,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
+     background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
 }
 
 .container {
@@ -35,7 +36,7 @@ input[type="text"] {
 .add-btn {
     padding: 10px 20px;
     margin-left: 10px;
-    background-color: #28a745;
+    background-color: #63bfbe;
     color: #fff;
     border: none;
     cursor: pointer;
